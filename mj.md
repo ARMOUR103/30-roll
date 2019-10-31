@@ -2,8 +2,8 @@ Mahender Jakhar
 Location
 Pune/India
 
-Academics
-Army Institute Of Technology
+Academics   
+Army Institute Of T  echnology
 
 Interests
 Machine Learning
